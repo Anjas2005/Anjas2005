@@ -24,7 +24,7 @@ Hey, I'm Anjas Vaidya!
 
 <div align="center">
 <!-- Snake animation -->
-<img src="dist/github-snake.svg" alt="GitHub contributions snake" />
+<!-- <img src="dist/github-snake.svg" alt="GitHub contributions snake" /> -->
 </div>
 
 <p align="center">🤔 My Philosophy: Digging Deeper</p>
