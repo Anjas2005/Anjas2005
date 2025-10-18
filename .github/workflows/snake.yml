@@ -3,7 +3,7 @@ name: Generate GitHub Contribution Snake
 on:
   schedule:
     - cron: '0 0 * * *'  # daily
-  workflow_dispatch:      # allows manual run
+  workflow_dispatch:      # manual run
 
 jobs:
   build-snake:
@@ -23,7 +23,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push snake
+      - name: Commit & push generated snake
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
