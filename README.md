@@ -5,7 +5,7 @@ Hey, I'm Anjas Vaidya!
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3398DB&center=true&vCenter=true&width=900&lines=ML+and+Backend+Enthusiast;Turning+caffeine+into+code+%E2%98%95;Diving+deep+into+the+core+of+tech+%F0%9F%A7%9D%E2%80%8D%262" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3398DB&center=true&vCenter=true&width=900&lines=ML+and+Backend+Enthusiast;Turning+caffeine+into+code+%E2%98%95;Diving+deep+into+the+core+of+tech" alt="Typing SVG" />
 </a>
 </p>
 
