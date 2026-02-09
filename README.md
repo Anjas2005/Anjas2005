@@ -61,16 +61,6 @@ I'm an ML and Backend Enthusiast who firmly believes in "understanding things fr
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-<p align="center">📊 My GitHub Stats</p>
-
-<p align="center">
-<a href="https://github.com/Anjas2005">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anjas2005&show_icons=true&theme=dracula&count_private=true&hide_border=true&rank_icon=github" />
-</a>
-<a href="https://github.com/Anjas2005">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjas2005&layout=compact&theme=dracula&hide_border=true" />
-</a>
-</p>
 
 <p align="center">
 <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
